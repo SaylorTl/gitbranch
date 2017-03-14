@@ -1,0 +1,4 @@
+# gitbranch
+git分支分发钩子脚本
+update为多个分支在一台机器上的脚本
+update2位多个分支在不同机器上的脚本
